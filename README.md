@@ -36,3 +36,4 @@ master 代码已经升级到最新 Vue.js 2.1.10 版本，如果想查看 1.0 �
 ![二维码](https://qr.api.cli.im/qr?data=http%253A%252F%252Fustbhuangyi.com%252Fmusic%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=731bbcc2b490454d2cc604f98539952c)
 
 
+## 修改了
